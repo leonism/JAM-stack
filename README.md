@@ -22,3 +22,23 @@ As mentioned, these files are here to help get started with a DevProjects challe
 ## Tutorial
 
 You can [watch this video](https://youtu.be/4wD00RT6d-g) to see how Kevin uses Eleventy, Netlify, and Netlify CMS to create a full-featured blog site built entirely with static files.
+
+
+## More
+
+…or create a new repository on the command line
+echo "# tailwindcss-html-css" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/leonism/tailwindcss-html-css.git
+git push -u origin main
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/leonism/tailwindcss-html-css.git
+git branch -M main
+git push -u origin main
+
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
