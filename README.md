@@ -42,3 +42,5 @@ git push -u origin main
 
 …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7ca30be6-1002-4c92-a1b9-eee44cd2c8ae/deploy-status)](https://app.netlify.com/sites/11ty-website/deploys)
