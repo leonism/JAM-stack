@@ -7,7 +7,7 @@ description: You can adapt Netlify CMS to a wide variety of projects. It works
 author: Gerry Leo Nugroho
 date: 2022-11-11T12:38:12.109Z
 tags: featured
-image: /assets/blog/bg-kontak.jpg
+image: /assets/blog/bg-lokasi.jpg
 imageAlt: Lorem ipsum dolor sit amet,
 ---
 # Add to Your Site
